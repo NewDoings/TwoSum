@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\twoSumboody\twoSumboody\bin\Debug\twoSumboody.exe.config
+C:\Users\Никита\source\repos\twoSumboody\twoSumboody\bin\Debug\twoSumboody.exe
+C:\Users\Никита\source\repos\twoSumboody\twoSumboody\bin\Debug\twoSumboody.pdb
+C:\Users\Никита\source\repos\twoSumboody\twoSumboody\obj\Debug\twoSumboody.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\twoSumboody\twoSumboody\obj\Debug\twoSumboody.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\twoSumboody\twoSumboody\obj\Debug\twoSumboody.exe
+C:\Users\Никита\source\repos\twoSumboody\twoSumboody\obj\Debug\twoSumboody.pdb
